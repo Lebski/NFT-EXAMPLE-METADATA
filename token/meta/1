@@ -1,1 +1,19 @@
-test2
+{
+    "name": "NFT #0001",
+    "description": "This is a demo NFT to showcase how smart contracts work and what you can do with it.",
+    "image": "https://raw.githubusercontent.com/Lebski/NFT-EXAMPLE-METADATA/main/token/img/rudi1.jpg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Raven"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Rudi"
+        },
+        {
+            "trait_type": "Number",
+            "value": 1
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-Test
+{
+    "name": "Buy one NFT",
+    "description": "This is a demo buy option for your NFT",
+    "image": "https://raw.githubusercontent.com/Lebski/NFT-EXAMPLE-METADATA/main/factory/img/loot1.jpg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Raven"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Unknown"
+        },
+        {
+            "trait_type": "Number",
+            "value": "RANDOM"
+        }
+    ]
+}

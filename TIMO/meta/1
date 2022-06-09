@@ -1,7 +1,7 @@
 {
     "name": "NFT #0001",
     "description": "This is a demo NFT to showcase how smart contracts work and what you can do with it.",
-    "image": "https://raw.githubusercontent.com/Lebski/NFT-EXAMPLE-METADATA/main/TIMO/img/levelup.jpg",
+    "image": "https://raw.githubusercontent.com/Lebski/NFT-EXAMPLE-METADATA/main/TIMO/img/levelup.png",
     "attributes": [
         {
             "trait_type": "Artist",

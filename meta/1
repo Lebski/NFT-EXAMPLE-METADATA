@@ -1,19 +1,34 @@
 {
-    "name": "NFT #0001",
-    "description": "This is a demo NFT to showcase how smart contracts work and what you can do with it.",
-    "image": "https://raw.githubusercontent.com/Lebski/NFT-EXAMPLE-METADATA/main/token/img/rudi1.jpg",
-    "attributes": [
-        {
-            "trait_type": "Type",
-            "value": "Raven"
-        },
-        {
-            "trait_type": "Name",
-            "value": "Rudi"
-        },
-        {
-            "trait_type": "Number",
-            "value": 1
-        }
-    ]
+	"name": "twireMembershipNFTV1",
+	"description": "Access the twire DAO community and build on web3.",
+	"image": "https://bafybeiflqqxt3lpt62qtmrlmpsppk4uevtzkgbcp2v7kkdf6t7q6krirjy.ipfs.nftstorage.link/ipfs/bafybeiflqqxt3lpt62qtmrlmpsppk4uevtzkgbcp2v7kkdf6t7q6krirjy/images/3.png",
+	"external_url": "https://twire.community",
+	"attributes": [{
+			"trait_type": "Role",
+			"value": "twire Member"
+		},
+		{
+			"trait_type": "Member Rank",
+			"value": "3"
+		}, {
+			"trait_type": "Skill",
+			"value": "Captain"
+		}, {
+			"trait_type": "Skill",
+			"value": "web3 Developer"
+		}, {
+			"trait_type": "twire Experience Points (tXP)",
+			"value": "600"
+		}, {
+			"trait_type": "Project involvement",
+			"value": "Carlito Collection"
+		}, {
+			"trait_type": "Project involvement",
+			"value": "Sparkasse"
+		}, {
+			"trait_type": "Project involvement",
+			"value": "The Wine Auction"
+		}
+
+	]
 }

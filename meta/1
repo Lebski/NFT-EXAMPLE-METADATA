@@ -9,7 +9,8 @@
 		},
 		{
 			"trait_type": "Member Rank",
-			"value": "3"
+			"max_value" : 6,
+			"value": 3
 		}, {
 			"trait_type": "Skill",
 			"value": "Captain"

@@ -19,6 +19,7 @@
 			"value": "web3 Developer"
 		}, {
 			"trait_type": "twire Experience Points (tXP)",
+      			"display_type": "number", 
 			"value": "600"
 		}, {
 			"trait_type": "Project involvement",

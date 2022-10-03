@@ -1,7 +1,7 @@
 {
     "name": "NFT #0001",
     "description": "This is a demo NFT to showcase how smart contracts work and what you can do with it.",
-    "image": "https://raw.githubusercontent.com/Lebski/NFT-EXAMPLE-METADATA/main/token/img/rudi1.jpg",
+    "image": "https://github.com/Lebski/NFT-EXAMPLE-METADATA/raw/main/TIMO/10_03_Sparkassen-Finanzgruppe%20Bank_NFS_v2.mp4",
     "attributes": [
         {
             "trait_type": "Type",

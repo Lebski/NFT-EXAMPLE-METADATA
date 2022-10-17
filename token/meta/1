@@ -1,1 +1,10 @@
-{"name": "Toni Token - Dein Weltspartag-NFT", "description": "Toni Token ist dein Weltspartag-NFT und begleitet dich bei deiner Reise ins NFT-Universum.", "image": "https://github.com/Lebski/NFT-EXAMPLE-METADATA/raw/main/TIMO/10_03_Sparkassen-Finanzgruppe%20Bank_NFS_v2.mp4", "external_url": "http://weltspartag-nft.de/", "attributes": [{"trait_type": "Name", "value": "Toni Token"}, {"trait_type": "Event", "value": "Weltspartag 2022"}]}
+{"name": "Andor", 
+ "description": "A thief whose planet Kenari was destroyed by one of the Galactic Empire's mining projects gone wrong.", 
+  "image": "https://cdn.prod.www.spiegel.de/images/6a12457a-addb-430b-ac29-e114f4fe9113_w948_r1.778_fpx37.33_fpy50.jpg", 
+  "external_url": "https://www.disneyplus.com/series/star-wars-andor/3xsQKWG00GL5", 
+  "collection": "Star Wars", 
+  "attributes": [
+     {"trait_type": "Name", "value": "Cassian Andor"}, 
+     {"trait_type": "Origin", "value": "Kenari"}
+  ]
+ }
